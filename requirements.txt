@@ -1,168 +1,165 @@
-alabaster                         0.7.12
-astroid                           2.4.2
-atomicwrites                      1.4.0
-atpublic                          1.0
-attrs                             19.3.0
-autopep8                          1.5.3
-Babel                             2.8.0
-backcall                          0.2.0
-bleach                            3.1.5
-breathe                           4.19.1
-cachetools                        4.1.0
-certifi                           2020.4.5.2
-cffi                              1.14.0
-chardet                           3.0.4
-cloudpickle                       1.4.1
-cryptography                      2.9.2
-cycler                            0.10.0
-Cython                            0.29.20
-decorator                         4.4.2
-defusedxml                        0.6.0
-diff-match-patch                  20181111
-docutils                          0.16
-entrypoints                       0.3
-fenics-dijitso                    2019.1.0
-fenics-dolfin                     2019.1.0
-fenics-ffc                        2019.1.0.post0
-fenics-fiat                       2019.1.0
-fenics-ufl                        2019.1.0
-flake8                            3.8.3
-flufl.lock                        3.2
-google-api-core                   1.20.0
-google-api-python-client          1.9.3
-google-auth                       1.17.2
-google-auth-httplib2              0.0.3
-googleapis-common-protos          1.52.0
-helpdev                           0.7.1
-httplib2                          0.18.1
-idna                              2.9
-imagesize                         1.2.0
-importlib-metadata                1.6.1
-intervaltree                      3.0.2
-ipykernel                         5.3.0
-ipython                           7.15.0
-ipython-genutils                  0.2.0
-ipywidgets                        7.5.1
-isort                             4.3.21
-jedi                              0.15.2
-jeepney                           0.4.3
-Jinja2                            2.11.2
-jsonschema                        3.2.0
-jupyter                           1.0.0
-jupyter-client                    6.1.3
-jupyter-console                   6.1.0
-jupyter-contrib-core              0.3.3
-jupyter-contrib-nbextensions      0.5.1
-jupyter-core                      4.6.3
-jupyter-highlight-selected-word   0.2.0
-jupyter-latex-envs                1.4.6
-jupyter-nbextensions-configurator 0.4.1
-keyring                           21.2.1
-kiwisolver                        1.2.0
-lazy-object-proxy                 1.4.3
-lxml                              4.5.1
-MarkupSafe                        1.1.1
-matplotlib                        3.2.1
-mccabe                            0.6.1
-meld                              3.18.0
-mistune                           0.8.4
-more-itertools                    8.3.0
-mpi4py                            2.0.0
-mpmath                            1.1.0
-mshr                              2019.1.0
-nbconvert                         5.6.1
-nbformat                          5.0.7
-nose                              1.3.7
-notebook                          6.0.3
-numpy                             1.13.3
-numpydoc                          1.0.0
-oauth2client                      4.1.3
-packaging                         20.4
-pandas                            1.0.4
-pandocfilters                     1.4.2
-parso                             0.5.2
-pathtools                         0.1.2
-petsc4py                          3.7.0
-pexpect                           4.8.0
-pickleshare                       0.7.5
-pip                               20.1.1
-pkgconfig                         1.3.1
-pluggy                            0.13.1
-ply                               3.11
-progressbar2                      3.51.3
-prometheus-client                 0.8.0
-prompt-toolkit                    3.0.5
-protobuf                          3.12.2
-psutil                            5.7.0
-ptyprocess                        0.6.0
-py                                1.8.1
-pyasn1                            0.4.8
-pyasn1-modules                    0.2.8
-pybind11                          2.2.3
-pycairo                           1.16.2
-pycodestyle                       2.6.0
-pycparser                         2.20
-pydocstyle                        5.0.2
-PyDrive                           1.3.1
-pyflakes                          2.2.0
-Pygments                          2.6.1
-pygobject                         3.26.1
-pylint                            2.5.3
-pyparsing                         2.4.7
-PyQt5                             5.15.0
-PyQt5-sip                         12.8.0
-PyQtWebEngine                     5.12.1
-pyrsistent                        0.16.0
-pytest                            5.4.3
-python-apt                        1.6.5+ubuntu0.3
-python-dateutil                   2.8.1
-python-jsonrpc-server             0.3.4
-python-language-server            0.31.10
-python-utils                      2.4.0
-pytz                              2020.1
-pyxdg                             0.26
-PyYAML                            5.3.1
-pyzmq                             19.0.1
-QDarkStyle                        2.8.1
-QtAwesome                         0.7.2
-qtconsole                         4.7.4
-QtPy                              1.9.0
-requests                          2.23.0
-rope                              0.17.0
-rsa                               4.6
-scipy                             1.4.1
-SecretStorage                     3.1.2
-Send2Trash                        1.5.0
-setuptools                        47.1.1
-six                               1.15.0
-slepc4py                          3.7.0
-snowballstemmer                   2.0.0
-sortedcontainers                  2.2.2
-Sphinx                            3.1.0
-sphinxcontrib-applehelp           1.0.2
-sphinxcontrib-devhelp             1.0.2
-sphinxcontrib-htmlhelp            1.0.3
-sphinxcontrib-jsmath              1.0.1
-sphinxcontrib-qthelp              1.0.3
-sphinxcontrib-serializinghtml     1.1.4
-spyder                            4.1.3
-spyder-kernels                    1.9.1
-sympy                             1.1.1
-terminado                         0.8.3
-testpath                          0.4.4
-toml                              0.10.1
-tornado                           6.0.4
-traitlets                         4.3.3
-typed-ast                         1.4.1
-ujson                             1.35
-uritemplate                       3.0.1
-urllib3                           1.25.9
-watchdog                          0.10.2
-wcwidth                           0.2.4
-webencodings                      0.5.1
-wheel                             0.34.2
-widgetsnbextension                3.5.1
-wrapt                             1.12.1
-wurlitzer                         2.0.0
-yapf                              0.30.0
-zipp                              3.1.0
+alabaster==0.7.12
+astroid==2.4.2
+atomicwrites==1.4.0
+atpublic==1.0
+attrs==19.3.0
+autopep8==1.5.3
+Babel==2.8.0
+backcall==0.2.0
+bleach==3.1.5
+breathe==4.19.1
+cachetools==4.1.0
+certifi==2020.4.5.2
+cffi==1.14.0
+chardet==3.0.4
+cloudpickle==1.4.1
+cryptography==2.9.2
+cycler==0.10.0
+Cython==0.29.20
+decorator==4.4.2
+defusedxml==0.6.0
+diff-match-patch==20181111
+docutils==0.16
+entrypoints==0.3
+fenics-dijitso==2019.1.0
+fenics-dolfin==2019.1.0
+fenics-ffc==2019.1.0.post0
+fenics-fiat==2019.1.0
+fenics-ufl==2019.1.0
+flake8==3.8.3
+flufl.lock==3.2
+google-api-core==1.20.0
+google-api-python-client==1.9.3
+google-auth==1.17.2
+google-auth-httplib2==0.0.3
+googleapis-common-protos==1.52.0
+helpdev==0.7.1
+httplib2==0.18.1
+idna==2.9
+imagesize==1.2.0
+importlib-metadata==1.6.1
+intervaltree==3.0.2
+ipykernel==5.3.0
+ipython==7.15.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.2
+jeepney==0.4.3
+Jinja2==2.11.2
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==6.1.3
+jupyter-console==6.1.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core==4.6.3
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+keyring==21.2.1
+kiwisolver==1.2.0
+lazy-object-proxy==1.4.3
+lxml==4.5.1
+MarkupSafe==1.1.1
+matplotlib==3.2.1
+mccabe==0.6.1
+meld==3.18.0
+mistune==0.8.4
+more-itertools==8.3.0
+mpi4py==2.0.0
+mpmath==1.1.0
+mshr==2019.1.0
+nbconvert==5.6.1
+nbformat==5.0.7
+nose==1.3.7
+notebook==6.0.3
+numpy==1.13.3
+numpydoc==1.0.0
+oauth2client==4.1.3
+packaging==20.4
+pandas==1.0.4
+pandocfilters==1.4.2
+parso==0.5.2
+pathtools==0.1.2
+petsc4py==3.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+pkgconfig==1.3.1
+pluggy==0.13.1
+ply==3.11
+progressbar2==3.51.3
+prometheus-client==0.8.0
+prompt-toolkit==3.0.5
+protobuf==3.12.2
+psutil==5.7.0
+ptyprocess==0.6.0
+py==1.8.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.2.3
+pycairo==1.16.2
+pycodestyle==2.6.0
+pycparser==2.20
+pydocstyle==5.0.2
+PyDrive==1.3.1
+pyflakes==2.2.0
+Pygments==2.6.1
+pygobject==3.26.1
+pylint==2.5.3
+pyparsing==2.4.7
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
+PyQtWebEngine==5.12.1
+pyrsistent==0.16.0
+pytest==5.4.3
+python-apt==1.6.5+ubuntu0.3
+python-dateutil==2.8.1
+python-jsonrpc-server==0.3.4
+python-language-server==0.31.10
+python-utils==2.4.0
+pytz==2020.1
+pyxdg==0.26
+PyYAML==5.3.1
+pyzmq==19.0.1
+QDarkStyle==2.8.1
+QtAwesome==0.7.2
+qtconsole==4.7.4
+QtPy==1.9.0
+requests==2.23.0
+rope==0.17.0
+rsa==4.6
+scipy==1.4.1
+SecretStorage==3.1.2
+Send2Trash==1.5.0
+six==1.15.0
+slepc4py==3.7.0
+snowballstemmer==2.0.0
+sortedcontainers==2.2.2
+Sphinx==3.1.0
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+spyder==4.1.3
+spyder-kernels==1.9.1
+sympy==1.1.1
+terminado==0.8.3
+testpath==0.4.4
+toml==0.10.1
+tornado==6.0.4
+traitlets==4.3.3
+typed-ast==1.4.1
+ujson==1.35
+uritemplate==3.0.1
+urllib3==1.25.9
+watchdog==0.10.2
+wcwidth==0.2.4
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.12.1
+wurlitzer==2.0.0
+yapf==0.30.0
+zipp==3.1.0
